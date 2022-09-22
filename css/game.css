@@ -1,0 +1,16 @@
+.gamebox {
+    background-color: #E9FAFA;
+    height: 100px;
+    text-align: center;
+    line-height: 60px;
+}
+
+.gicon {
+    height: 50px;
+    width: 50px;
+}
+
+.gbox:hover {
+    height: 110px;
+    transition: 0.5s;
+}
